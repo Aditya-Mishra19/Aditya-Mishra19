@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**Aditya-Mishra19/Aditya-Mishra19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>नमस्ते (Namaste)🙏🏻, I'm Aditya Mishra! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-Here are some ideas to get you started:
+### I am a 2nd-year Computer Science student. Fascinated towards Data science, Al & ML and Problem Solving skill❤️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on - Problem solving skill 🤓
+
+- 🌱 I’m currently learning - Deep learning 🤡
+
+- 👯 I’m looking to collaborate on - ML/ DL Hackathon, DSA Contest.😊
+
+- 🤔 I’m looking for help with - Nothing at the moment 😄
+
+- 💬 Ask me about - Anything 🤫
+
+- ⚡Fact - Self taught Programmer & learner 😎
+
+
+  
+## 🔗 Links
+<p align="center">
+ <a href="https://www.linkedin.com/in/aditya-mishra-1907/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:skadityamishra@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
+
+  
+## 🛠 Skills
+Machine learning, Deep learning, Data structure and Algorithm, Python, C++ , (More to learn)
+
+  
