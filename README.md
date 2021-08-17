@@ -23,7 +23,9 @@
  <a href="https://www.linkedin.com/in/aditya-mishra-1907/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:skadityamishra@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-
+<p>
+    <img class="center" alt="Manish Sharma's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Aditya-Mishra19.Aditya-Mishra19"/>
+</p>
 
   
 ## 🛠 Skills
