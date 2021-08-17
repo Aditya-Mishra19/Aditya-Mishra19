@@ -29,6 +29,30 @@
 
   
 ## 🛠 Skills
-Machine learning, Deep learning, Data structure and Algorithm, Python, C++ , (More to learn)
+Machine learning🤓, Deep learning🥰, Data structure and Algorithm ✍
 
-  
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-JupyterNB-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Sklearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-GitBash-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+
+
+<p align="center">
+<a href="https://github.com/Aditya-Mishra19">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Mishra19&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya-Mishra19&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="Aditya-Mishra19's github stats"/>
+</a></p>
+<br>
+
+
+
+
+
+<!--🌟 From [Aditya Mishra](https://github.com/Aditya-Mishra19)-->
+[linkedin]: https://www.linkedin.com/in/aditya-mishra-1907/
+[Mail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=skadityamishra@gmail.com.com&su=SUBJECT&body=BODY&tf=1
