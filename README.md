@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on - Problem solving skill 🤓
 
-- 🌱 I’m currently learning - Deep learning 🤡
+- 🌱 I’m currently learning - Data structures and algorithm. 🤡
 
 - 👯 I’m looking to collaborate on - ML/ DL Hackathon, DSA Contest.😊
 
