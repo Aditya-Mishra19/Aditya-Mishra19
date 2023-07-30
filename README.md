@@ -2,7 +2,7 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Aditya Mishra! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### I am a 2nd-year Computer Science student. Fascinated towards Data science, Al & ML and Problem Solving skill❤️
+### I am a 4nd-year Computer Science student. Fascinated towards Data science, Al & ML and Problem Solving skill❤️
 
 - 🔭 I’m currently working on - Problem solving skill 🤓
 
