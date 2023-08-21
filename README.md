@@ -41,12 +41,6 @@ Machine learning🤓, Deep learning🥰, Data structure and Algorithm ✍
 ![](https://img.shields.io/badge/Tools-Sklearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-GitBash-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
-
-<p align="center">
-<a href="https://github.com/Aditya-Mishra19">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Mishra19&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya-Mishra19&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="Aditya-Mishra19's github stats"/>
-</a></p>
 <br>
 
 
